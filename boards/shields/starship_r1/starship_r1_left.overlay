@@ -1,3 +1,5 @@
+#include "my_keyboard.dtsi"
+
 &kscan0 {
   row-gpios
     = <&gpio1 06 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
