@@ -1,0 +1,11 @@
+file_format: "1"
+id: starship_r1
+name: Starship_Rev1
+type: shield
+url: 
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - starship_r1_left
+  - starship_r1_right
