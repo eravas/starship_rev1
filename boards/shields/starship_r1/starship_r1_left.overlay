@@ -1,4 +1,4 @@
-#include "my_keyboard.dtsi"
+#include "starship_r1.dtsi"
 
 &kscan0 {
   row-gpios
