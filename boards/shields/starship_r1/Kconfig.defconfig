@@ -1,6 +1,6 @@
 if SHIELD_STARSHIP_R1_LEFT
 
-config STARSHIP_R1
+config ZMK_KEYBOARD_NAME
   default "Starship Rev.1"
 
 config ZMK_SPLIT_ROLE_CENTRAL
